@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tithi200
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Frontend 
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on startup project
 - 📫 How to reach me my linkedin profile
 - 😄 Pronouns: ...
